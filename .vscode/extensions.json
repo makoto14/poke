@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "vscodeshift.mui-snippets",
+        "esbenp.prettier-vscode",
+        "visualstudioexptteam.vscodeintellicode",
+        "ms-ceintl.vscode-language-pack-ja",
+        "styled-components.vscode-styled-components"
+    ]
+}
