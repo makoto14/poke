@@ -1,9 +1,9 @@
 import { configureStore } from "@reduxjs/toolkit";
-import TestStore from "./testStore";
+import BagStore from "./bagStore";
 
 export const store = configureStore({
   reducer: {
-    TestStore: TestStore,
+    BagStore: BagStore,
   },
 });
 
